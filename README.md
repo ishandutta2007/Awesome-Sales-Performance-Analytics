@@ -66,7 +66,7 @@ Below is a detailed comparison of top commercial sales performance analytics pro
 
 ## 🔓 Open-Source GitHub Projects
 
-Below are top open-source repositories and tools for building self-hosted sales performance analytics, ordered strictly by **GitHub star count** (descending). Each star badge links directly to the repository's stargazers page! 🌟
+Below are top open-source repositories and tools for building self-hosted sales performance analytics, ordered strictly by **GitHub Stars_Count** (descending). Each Stars_Badge links directly to the repository's stargazers page! 🌟
 
 ### 📊 Dashboard & BI Platforms
 
@@ -179,7 +179,7 @@ We welcome community contributions to keep this sales analytics directory comple
 1. **Fork the repository** 🍴
 2. **Add or edit entries** in `README.md` following the standard markdown format.
 3. Ensure the project is relevant to **sales performance analytics, revenue intelligence, or CRM data visualization**.
-4. Include: Name, website/repo link, star badge (for open-source), clear description, and key capabilities.
+4. Include: Name, website/repo link, Stars_Badge (for open-source), clear description, and key capabilities.
 5. **Open a Pull Request** with a descriptive summary of your additions. 📬
 
 ---
